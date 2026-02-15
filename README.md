@@ -5,4 +5,4 @@
 [![committers.top badge](https://user-badge.committers.top/spain/drhelius.svg)](https://user-badge.committers.top/spain/drhelius)
 [![Twitter Follow](https://img.shields.io/twitter/follow/drhelius)](https://x.com/drhelius)
 
-Architect atMicrosoft, ex-Red Hatter. Emulator developer. Creator of Gearboy, Gearsystem, Geargrafx, Gearcoleco and Gearlynx emulators.
+Architect at Microsoft, ex-Red Hatter. Emulator developer. Creator of Gearboy, Gearsystem, Geargrafx, Gearcoleco and Gearlynx emulators.
