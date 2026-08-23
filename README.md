@@ -4,3 +4,6 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/drhelius)](https://github.com/sponsors/drhelius)
 [![committers.top badge](https://user-badge.committers.top/spain/drhelius.svg)](https://user-badge.committers.top/spain/drhelius)
 [![GitHub drhelius](https://img.shields.io/github/followers/drhelius?label=follow&style=social)](https://github.com/drhelius)
+---
+🎮 **[Gear Emulators](https://www.drhelius.com/emulators)** — Play my emulators in your browser  
+🎵 **[VGM Player](https://www.drhelius.com/yawvgmp)** — Play VGM files in your browser
