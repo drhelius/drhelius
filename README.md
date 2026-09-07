@@ -6,5 +6,5 @@
 [![GitHub drhelius](https://img.shields.io/github/followers/drhelius?label=follow&style=social)](https://github.com/drhelius)
 ---
 🎮 **[Gear Emulators](https://www.drhelius.com/emulators)** — My emulators in your browser  
-🎵 **[VGM Player](https://www.drhelius.com/yawvgmp)** — Play VGM files in your browser
+🎵 **[VGM Player](https://www.drhelius.com/yawvgmp)** — Play VGM files in your browser  
 🚀 **[SMAC Launcher](https://github.com/drhelius/smac-gog-mac-launcher)** — Play Alpha Centauri and Alien Crossfire on macOS
