@@ -5,7 +5,7 @@
 [![committers.top badge](https://user-badge.committers.top/spain/drhelius.svg)](https://user-badge.committers.top/spain/drhelius)
 [![GitHub drhelius](https://img.shields.io/github/followers/drhelius?label=follow&style=social)](https://github.com/drhelius)
 ---
-🎮 **[Gear Emulators](https://www.drhelius.com/emulators)** — My emulators in your browser  
-🎵 **[Web VGM Player](https://www.drhelius.com/yawvgmp)** — Play VGM files in your browser  
-🚀 **[SMAC Launcher](https://github.com/drhelius/smac-gog-mac-launcher)** — Play Alpha Centauri and Alien Crossfire on macOS  
-🕹️ **[ArduinoGameBoy](https://github.com/drhelius/arduinogameboy)** — Arduino based Game Boy cartridge reader and writer, dumps ROM and RAM to SD card
+🎮 **[Gear Emulators](https://www.drhelius.com/emulators)** — My emulators in your browser.  
+🎵 **[Web VGM Player](https://www.drhelius.com/yawvgmp)** — Play VGM files in your browser.  
+🚀 **[SMAC Launcher](https://github.com/drhelius/smac-gog-mac-launcher)** — Play Alpha Centauri and Alien Crossfire on macOS.  
+🕹️ **[ArduinoGameBoy](https://github.com/drhelius/arduinogameboy)** — Arduino based Game Boy cartridge reader and writer. Dumps ROM and RAM to SD card.
