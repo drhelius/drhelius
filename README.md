@@ -5,6 +5,7 @@
 [![committers.top badge](https://user-badge.committers.top/spain/drhelius.svg)](https://user-badge.committers.top/spain/drhelius)
 [![GitHub drhelius](https://img.shields.io/github/followers/drhelius?label=follow&style=social)](https://github.com/drhelius)
 ---
+👨‍💼 **[My CV](https://www.drhelius.com/cv)** — My Curriculum Vitae.  
 🎮 **[Gear Emulators](https://www.drhelius.com/emulators)** — My emulators in your browser.  
 🎵 **[Web VGM Player](https://www.drhelius.com/yawvgmp)** — Play VGM files in your browser.  
 🚀 **[SMAC Launcher](https://github.com/drhelius/smac-gog-mac-launcher)** — Play Alpha Centauri and Alien Crossfire on macOS.  
